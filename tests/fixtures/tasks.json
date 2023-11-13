@@ -1,0 +1,32 @@
+{
+    "success":{
+        "name": "Estudar Playwright",
+        "is_done": false
+    },
+
+    "duplicate":{
+
+        "name": "Comprar Ketchup",
+        "is_done": false
+
+    },
+    "required":{
+
+        "name": "",
+        "is_done": false
+
+    },
+    "update":{
+
+        "name": "Pagar fatura do cartão de crédito",
+        "is_done": false
+
+    },
+
+    "delete":{
+
+        "name": "Estudar Phyton",
+        "is_done": false
+
+    }
+}
